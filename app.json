@@ -1,10 +1,11 @@
 {
   "expo": {
-    "name": "deliveroo-clone",
-    "slug": "deliveroo-clone",
+    "name": "Food Deliver",
+    "slug": "food-deliver",
+    "description": "Food Delivery App",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/icons8-react-400.png",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
